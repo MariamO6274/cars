@@ -1,0 +1,18 @@
+Notes will be add here
+
+1. components
+2. logo
+3. hero
+4. cards or with img
+5. some text and search bar with API
+6. footer
+
+for now 2 more pages
+1. about us
+2. contact
+
+do something with repare and shop
+
+TO DO 
+-something with unsplash API
+-find car search bar 
